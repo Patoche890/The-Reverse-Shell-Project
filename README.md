@@ -11,5 +11,5 @@ Enjoy my tool.
 
 <b>1) Installation</b>
 
--first, you'll need python 3.12 to get started
+-first, you'll need python 3.12 to get started <br>
 -After having been install it run this : 
