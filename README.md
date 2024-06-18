@@ -15,9 +15,8 @@ Enjoy my tool.
 -After having been install it run this : pip install -r requirements.txt <br>
 -after, change the ip and the port in Client.py <br>
 -Then encode it and paste the encoded string into decode.exec-py <br>
--Obfusc the decode-exec code (html-link) <br>
--build the code with Build-Decode-Exec.bat <br>
--Then if you want to use the exe you need to clone the repo where it is <br>
-else it will not work. <br>
+-Obfusc the decode-exec code and past it in a new file(html-link) <br>
+-build the file with Build-Decode-Exec.bat <br>
+-Then if you want to use the exe located in build folder you need to clone the folder where it is else it will not work. <br>
 
 -Good Luck ! 
