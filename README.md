@@ -9,4 +9,7 @@ https://discord.gg/Djswwjpu ---> If the link doesn't work, send a message in the
 
 Enjoy my tool.
 
-<b>Installation</b>
+<b>1) Installation</b>
+
+-first, you'll need python 3.12 to get started
+-After having been install it run this : 
